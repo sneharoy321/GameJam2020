@@ -1,0 +1,608 @@
+﻿Log file open, 02/01/20 10:27:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJam2020
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.083128
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/unreal/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-18.27.41:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.01-18.27.41:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-18.27.41:174][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-18.27.41:181][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-18.27.41:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-18.27.41:182][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-18.27.41:182][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-18.27.41:182][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.01-18.27.41:184][  0]LogHAL: Display: Platform has ~ 16 GB [17121128448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.01-18.27.41:184][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.01-18.27.41:185][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.02.01-18.27.41:185][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.01-18.27.41:186][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-18.27.41:186][  0]LogInit: Computer: DESKTOP-R8H4JKG
+[2020.02.01-18.27.41:186][  0]LogInit: User: liams
+[2020.02.01-18.27.41:186][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.01-18.27.41:186][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.01-18.27.41:186][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.01-18.27.41:186][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.01-18.27.41:186][  0]LogMemory: Process Physical Memory: 106.69 MB used, 106.70 MB peak
+[2020.02.01-18.27.41:186][  0]LogMemory: Process Virtual Memory: 95.37 MB used, 95.37 MB peak
+[2020.02.01-18.27.41:186][  0]LogMemory: Physical Memory: 9418.73 MB used,  6909.25 MB free, 16327.98 MB total
+[2020.02.01-18.27.41:186][  0]LogMemory: Virtual Memory: 4677.17 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.02.01-18.27.41:190][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.01-18.27.41:214][  0]LogInit: Using OS detected language (en-US).
+[2020.02.01-18.27.41:214][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.01-18.27.41:214][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.01-18.27.41:460][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.01-18.27.41:498][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.01-18.27.41:498][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.01-18.27.41:747][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.02.01-18.27.41:747][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.01-18.27.41:834][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.02.01-18.27.41:834][  0]LogD3D11RHI:       8079/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.01-18.27.41:837][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.01-18.27.41:837][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.01-18.27.41:837][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.01-18.27.41:849][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.01-18.27.41:849][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.01-18.27.41:849][  0]LogWindows: EnumDisplayDevices:
+[2020.02.01-18.27.41:849][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.02.01-18.27.41:850][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.02.01-18.27.41:851][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.01-18.27.41:852][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.01-18.27.41:852][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.01-18.27.41:852][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.02.01-18.27.41:852][  0]LogD3D11RHI:   Driver Version: 441.08 (internal:26.21.14.4108, unified:441.08)
+[2020.02.01-18.27.41:852][  0]LogD3D11RHI:      Driver Date: 10-22-2019
+[2020.02.01-18.27.41:852][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.02.01-18.27.41:917][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.01-18.27.41:936][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.01-18.27.42:493][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.01-18.27.42:503][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.01-18.27.42:514][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.01-18.27.42:524][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.01-18.27.42:535][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.01-18.27.42:544][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.01-18.27.42:552][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.01-18.27.42:563][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.01-18.27.42:567][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.01-18.27.42:606][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.01-18.27.42:609][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.01-18.27.42:628][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.01-18.27.42:628][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.01-18.27.42:641][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.01-18.27.42:641][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.01-18.27.42:648][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.01-18.27.42:655][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.01-18.27.42:661][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.01-18.27.42:669][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.01-18.27.42:697][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.01-18.27.42:697][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.01-18.27.42:697][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.01-18.27.42:709][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.01-18.27.42:753][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Intermediate/Shaders/WorkingDirectory/17732/).
+[2020.02.01-18.27.42:754][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/liams/AppData/Local/Temp/UnrealShaderWorkingDir/BAF122A840B2FBF72BBAC383A83EC84F/'.
+[2020.02.01-18.27.42:755][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.01-18.27.42:755][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.01-18.27.42:755][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.01-18.27.43:415][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.01-18.27.43:488][  0]LogDerivedDataCache: Loaded boot cache 0.07s 93MB C:/Users/liams/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.01-18.27.43:488][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/liams/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.01-18.27.43:488][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.01-18.27.43:488][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.01-18.27.43:488][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-18.27.43:488][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.01-18.27.43:500][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.01-18.27.43:500][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-18.27.43:500][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.01-18.27.43:502][  0]LogDerivedDataCache: Using Local data cache path C:/Users/liams/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.01-18.27.43:502][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.01-18.27.43:502][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.01-18.27.43:531][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.01-18.27.43:534][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.01-18.27.43:535][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.01-18.27.43:606][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.02.01-18.27.43:884][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-18.27.44:022][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.01-18.27.44:022][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.01-18.27.44:022][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.01-18.27.44:022][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.01-18.27.44:022][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.01-18.27.44:030][  0]LogNetVersion: GameJam2020 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1723651246)
+[2020.02.01-18.27.44:466][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.066765 seconds
+[2020.02.01-18.27.44:472][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.02.01-18.27.44:472][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.02.01-18.27.44:472][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.01-18.27.45:362][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.01-18.27.45:364][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.01-18.27.45:391][  0]LogSteamAudio: FSteamAudioModule Startup
+[2020.02.01-18.27.45:391][  0]LogSteamAudio: Display: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2020.02.01-18.27.45:393][  0]LogSteamAudio: Display: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2020.02.01-18.27.45:393][  0]LogSteamAudio: Display: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2020.02.01-18.27.45:394][  0]LogSteamAudio: Display: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2020.02.01-18.27.45:394][  0]LogSteamAudio: Display: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2020.02.01-18.27.45:395][  0]LogSteamAudio: Display: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2020.02.01-18.27.45:421][  0]SourceControl: Source control is disabled
+[2020.02.01-18.27.45:421][  0]SourceControl: Source control is disabled
+[2020.02.01-18.27.45:422][  0]SourceControl: Source control is disabled
+[2020.02.01-18.27.45:424][  0]SourceControl: Source control is disabled
+[2020.02.01-18.27.45:510][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.01-18.27.45:723][  0]LogOcInput: OculusInput pre-init called
+[2020.02.01-18.27.46:381][  0]LogEngine: Initializing Engine...
+[2020.02.01-18.27.46:433][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.02.01-18.27.46:434][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.01-18.27.46:661][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.01-18.27.46:673][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.01-18.27.46:753][  0]LogInit: XAudio2 using 'Line (AG06/AG03)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.02.01-18.27.46:779][  0]LogInit: FAudioDevice initialized.
+[2020.02.01-18.27.46:780][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.01-18.27.46:862][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/liams/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.01-18.27.46:868][  0]LogInit: Texture streaming: Enabled
+[2020.02.01-18.27.46:887][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.01-18.27.46:887][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.01-18.27.46:890][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.01-18.27.46:951][  0]LogInit: Transaction tracking system initialized
+[2020.02.01-18.27.46:975][  0]BlueprintLog: New page: Editor Load
+[2020.02.01-18.27.47:048][  0]LocalizationService: Localization service is disabled
+[2020.02.01-18.27.47:321][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.01-18.27.47:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/' took 0.01s
+[2020.02.01-18.27.47:321][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.01-18.27.47:508][  0]SourceControl: Source control is disabled
+[2020.02.01-18.27.47:602][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.01-18.28.03:486][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.02.01-18.28.03:487][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.01-18.28.03:497][  0]Cmd: MAP LOAD FILE="C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-18.28.03:498][  0]LightingResults: New page: Lighting Build
+[2020.02.01-18.28.03:500][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-18.28.03:501][  0]MapCheck: New page: Map Check
+[2020.02.01-18.28.03:501][  0]LightingResults: New page: Lighting Build
+[2020.02.01-18.28.03:526][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.01-18.28.03:628][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.02.01-18.28.03:634][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-18.28.03:662][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.02.01-18.28.03:662][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-18.28.03:662][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2020.02.01-18.28.03:662][  0]LogFileHelpers: Loading map 'StartupMap' took 0.165
+[2020.02.01-18.28.03:689][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.01-18.28.03:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.28.03:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.28.03:736][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.28.03:743][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.28.03:748][  0]LogCollectionManager: Loaded 0 collections in 0.001215 seconds
+[2020.02.01-18.28.03:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Saved/Collections/' took 0.00s
+[2020.02.01-18.28.03:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/Developers/liams/Collections/' took 0.00s
+[2020.02.01-18.28.03:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/Collections/' took 0.00s
+[2020.02.01-18.28.03:754][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.02.01-18.28.03:761][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2876 classes and 686 folders.
+[2020.02.01-18.28.03:766][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.01-18.28.03:805][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.01-18.28.03:811][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.01-18.28.03:819][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.02.01-18.28.03:870][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.01-18.28.03:880][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.01-18.28.03:880][  0]LogLoad: (Engine Initialization) Total time: 24.50 seconds
+[2020.02.01-18.28.03:880][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.01-18.28.03:929][  0]LogAssetRegistry: Asset discovery search completed in 20.3240 seconds
+[2020.02.01-18.28.03:932][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2020.02.01-18.28.03:932][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2020.02.01-18.28.03:933][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.01-18.28.04:026][  1]LogRenderer: Reallocating scene render targets to support 732x392 Format 26 NumSamples 1 (Frame:1).
+[2020.02.01-18.28.04:050][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.28.04:909][103]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-18.28.05:954][223]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.01-18.28.05:954][223]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.02.01-18.28.07:158][363]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-18.28.09:077][589]LogLinker: Warning: While loading 'C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/Levels/SpaceShip.umap' failed to load '/Game/Levels/SpaceShip_BuiltData': Can't find file.
+[2020.02.01-18.28.09:077][589]LogLinker: Warning: While loading 'C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/Levels/SpaceShip.umap' failed to load '/Game/Levels/SpaceShip_BuiltData': Can't find file.
+[2020.02.01-18.28.09:078][589]LogLinker: Warning: While loading 'C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/Levels/SpaceShip.umap' failed to load '/Game/Levels/SpaceShip_BuiltData': Can't find file.
+[2020.02.01-18.28.09:078][589]LogLinker: Warning: While loading 'C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/Levels/SpaceShip.umap' failed to load '/Game/Levels/SpaceShip_BuiltData': Can't find file.
+[2020.02.01-18.28.09:079][589]LogLinker: Warning: Failed to load '/Game/Levels/SpaceShip_BuiltData': Can't find file.
+[2020.02.01-18.28.09:080][589]LogLinker: Warning: Failed to load '/Game/Levels/SpaceShip_BuiltData': Can't find file.
+[2020.02.01-18.28.09:080][589]LogLinker: Warning: Failed to load '/Game/Levels/SpaceShip_BuiltData': Can't find file.
+[2020.02.01-18.28.09:080][589]LogLinker: Warning: Failed to load '/Game/Levels/SpaceShip_BuiltData': Can't find file.
+[2020.02.01-18.28.09:089][589]LogLinker: Warning: While loading 'C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/Levels/SpaceShip.umap' failed to load '/Game/Levels/SpaceShip_BuiltData': Can't find file.
+[2020.02.01-18.28.09:089][589]LoadErrors: Failed to load /Game/Levels/SpaceShip_BuiltData.SpaceShip_BuiltData Referenced by PersistentLevel
+[2020.02.01-18.28.09:090][589]LogLinker: Warning: While loading 'C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/Levels/SpaceShip.umap' failed to load '/Game/Levels/SpaceShip_BuiltData': Can't find file.
+[2020.02.01-18.28.09:093][589]LogAIModule: Creating AISystem for world SpaceShip
+[2020.02.01-18.28.09:096][589]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/SpaceShip.SpaceShip
+[2020.02.01-18.28.09:118][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.01-18.28.09:119][589]Cmd: MAP LOAD FILE="C:/Users/liams/Documents/Unreal Projects/GameJam2020/GameJam2020/Content/Levels/SpaceShip.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-18.28.09:120][589]LightingResults: New page: Lighting Build
+[2020.02.01-18.28.09:120][589]LoadErrors: New page: Loading map: SpaceShip.umap
+[2020.02.01-18.28.09:120][589]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-18.28.09:121][589]MapCheck: New page: Map Check
+[2020.02.01-18.28.09:121][589]LightingResults: New page: Lighting Build
+[2020.02.01-18.28.09:141][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.01-18.28.09:142][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/XHallway) is flushing async loading
+[2020.02.01-18.28.09:142][589]LogStreaming: Display: Flushing async loaders.
+[2020.02.01-18.28.09:153][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/Room02) is flushing async loading
+[2020.02.01-18.28.09:193][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/Room01) is flushing async loading
+[2020.02.01-18.28.09:205][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/THallway) is flushing async loading
+[2020.02.01-18.28.09:208][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/LHallway) is flushing async loading
+[2020.02.01-18.28.09:211][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/Room03) is flushing async loading
+[2020.02.01-18.28.09:223][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/Room04) is flushing async loading
+[2020.02.01-18.28.09:235][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/Room05) is flushing async loading
+[2020.02.01-18.28.09:248][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/Room06) is flushing async loading
+[2020.02.01-18.28.09:261][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/Room07) is flushing async loading
+[2020.02.01-18.28.09:273][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Procedural/Hallway) is flushing async loading
+[2020.02.01-18.28.09:276][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Elevator) is flushing async loading
+[2020.02.01-18.28.09:288][589]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Empty) is flushing async loading
+[2020.02.01-18.28.09:343][589]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-18.28.09:364][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.02.01-18.28.09:382][589]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-18.28.09:384][589]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.204ms to complete.
+[2020.02.01-18.28.09:384][589]LogFileHelpers: Loading map 'SpaceShip' took 0.265
+[2020.02.01-18.28.13:934][118]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/SpaceShip.SpaceShip:PersistentLevel.SpaceShip
+[2020.02.01-18.28.14:138][118]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.02.01-18.28.14:789][118]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.01-18.28.14:845][119]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.01-18.29.28:176][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
